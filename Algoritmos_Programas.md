@@ -18,6 +18,8 @@
 #### A1.6 Video Dif entre algoritmo y programa
 
 Off / Topic 
+chrome://dino
+
 https://medium.com/hackernoon/hacking-google-chromes-t-rex-game-e88b0f31bd55
 
 
