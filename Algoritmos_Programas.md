@@ -9,6 +9,21 @@
 
 
 #### A1.2) Aviones de Papel
-#### A1.3) Algortimo para que escape el robot. 
+#### A1.3) Algortimo para que escape el robot.
+
+
+
+#### A1.4 Algoritmo para dibujar. 
+#### A1.5 La Maquina de dibujar
+#### A1.6 Video Dif entre algoritmo y programa
+
+REGLAS DE LA MÁQUINA DE DIBUJAR
+La máquina puede pintar un cuadrado por vez. 
+
+Solo puede moverse de un cuadrado a otro contiguo: arriba, abajo, izquierda o derecha. 
+
+Siempre comienza desde el cuadrado ubicado en la esquina superior izquierda, marcado con una estrella. 
+
+
 
 
