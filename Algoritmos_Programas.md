@@ -17,6 +17,11 @@
 #### A1.5 La Maquina de dibujar
 #### A1.6 Video Dif entre algoritmo y programa
 
+Off / Topic 
+https://medium.com/hackernoon/hacking-google-chromes-t-rex-game-e88b0f31bd55
+
+
+
 REGLAS DE LA MÁQUINA DE DIBUJAR
 La máquina puede pintar un cuadrado por vez. 
 
