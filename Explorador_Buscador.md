@@ -19,15 +19,15 @@ Aprender la diferencia entre un Explorador de Archivos, un Explorador Web y un B
 1. **Explorador de Archivos**:
    - Abre el Explorador de Windows.
    - Busca la carpeta "C:\Usuarios\PCXX\Imagenes\" en tu computadora y abre un archivo (como una imagen) o un documento en "C:\Usuarios\PCXX\Documentos\".
-
-2. **Explorador Web**:
-   - Abre Google Chrome (u otro navegador web).
-   - Visita el sitio web: http://https://www.tvokids.com/school-age/games/keyboard-climber-1 para practicar el uso del teclado.
-     
-3. **Buscador Web**:
+  
+2. **Buscador Web**:
    - Abre Google en tu navegador web.
    - Escribe "animales en peligro de extinción" y revisa los resultados de la búsqueda.
 
+3. **Explorador Web**:
+   - Abre Google Chrome (u otro navegador web).
+   - Visita el sitio web: [Typing](https://www.typing.com/es/student/lessons) para aprender sobre la distribución y practicar el uso del teclado.
+   
 #### Paso 3: **Quiz Rápido**:
    - ¿Qué herramienta usarías para encontrar una imagen guardada en tu computadora?
    - ¿Qué herramienta usarías para buscar información sobre dinosaurios?
