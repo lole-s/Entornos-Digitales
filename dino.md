@@ -1,6 +1,6 @@
 <!--- imagen de encabezado --->
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./Juego de Dinosaurios/El Juego de los Dinosaurios.png">
+  <img alt="" style="{max-height: 0px}" src="./dino-game/dino.png">
 </p>
 
 ## Cómo jugar al juego del dinosaurio
@@ -14,7 +14,7 @@ Puedes hacer clic [aquí](chrome://dino/) para jugar o apagar tu Internet para a
 - Puedes ver "HI" para verificar tu puntuación "Highest" y "Current".
 
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./Juego de Dinosaurios/Presiona espacio para jugar.PNG">
+  <img alt="" style="{max-height: 0px}" src="./dino-game/Presiona espacio para jugar.PNG">
 </p>
 
 # Automatización/Hack para el juego Dinasour
