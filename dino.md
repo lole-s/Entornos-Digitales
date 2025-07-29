@@ -1,6 +1,6 @@
 <!--- imagen de encabezado --->
 <p align="left">
-  <img alt="" style="{max-height: 0px}" src="./dino-game/dino.png">
+  <img alt="" style="{max-height: 0px}" src="./dino-game/The%20Dinosaur%20Game.png">
 </p>
 
 ## Cómo jugar al juego del dinosaurio
