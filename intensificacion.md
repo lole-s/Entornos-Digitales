@@ -35,7 +35,7 @@ Las variables pueden guardar distintos tipos de datos:
   👉 `2.5`, `3.14`
 * **Lógico o booleano:** solo puede ser
 
-  👉 `verdadero` o `falso`
+  👉 `true (verdadero)` o `false (falso)`
 
 ---
 
